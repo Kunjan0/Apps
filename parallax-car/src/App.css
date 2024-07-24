@@ -37,11 +37,10 @@
 }
 
 #car {
-  position: relative;
   width: 100px;
   height: auto;
-  margin-top: 56%;
-  margin-right: 86%;
+  margin-top: 35%;
+  margin-right: 92%;
   border-radius: 12px;
 }
 
